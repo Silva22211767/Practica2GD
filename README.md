@@ -3,7 +3,7 @@
 # Práctica 2: Caos en sistemas biológicos
 
 ## Información de la estudiante
-Paul A. Valle \[05211261]; paul.vt@tijuana.tecn.mx
+Karla Emilia Silva Pérez [22211767]; l22211767@tectijuana.edu.mx
 
 Gemelos Digitales
 
@@ -31,14 +31,13 @@ de recursos entre células patológicas y células sanas, ambas se eliminan a un
 tratamiento de inmunoterapia.
 
 
-Palabras clave: Caos; Conjuntos Compactos Invariantes; Condiciones de Estabilidad; Simulaciones Numéricas; Solución de EDOs.
+Palabras clave: Célula; Estabilidad; Modelo matemático; Órbita; Punto de equilibrio.
 
 ## Actividades a realizar
 1. Diseñar un diagrama biológico sobre la dinámica del sistema y la interacción entre sus variables con las figuras de https://bioart.niaid.nih.gov/ o https://www.biorender.com/.
 2. 
 3.
 4.
-...
 
 ## Lista de archivos incluidos en el repositorio
 1. Cuaderno computacional de MATLAB [.mlx].
