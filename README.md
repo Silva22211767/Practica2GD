@@ -31,7 +31,7 @@ de recursos entre células patológicas y células sanas, ambas se eliminan a un
 tratamiento de inmunoterapia.
 
 
-Palabras clave: Célula; Estabilidad; Modelo matemático; Órbita; Punto de equilibrio.
+Palabras clave: Cáncer; Caos; Estabilidad; Inmunoterapia; Simulaciones numéricas; Sistema no lineal.
 
 ## Actividades a realizar
 1. Diseñar un diagrama biológico sobre la dinámica del sistema y la interacción entre sus variables con las figuras de https://bioart.niaid.nih.gov/ o https://www.biorender.com/.
