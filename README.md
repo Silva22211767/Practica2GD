@@ -39,9 +39,8 @@ Palabras clave: Cáncer; Caos; Estabilidad; Inmunoterapia; Simulaciones numéric
 3. Determinar analíticamente los puntos de equilibrio libres de células patológicas ($x^*=0$) y validar la estabilidad asintótica local mediante el cálculo de la matriz Jacobiana y sus respectivos valores propios ($\lambda$).
 4. Desarrollar un algoritmo en MATLAB que implemente las funciones necesarias para definir los parámetros del sistema, calcular los equilibrios y resolver las ecuaciones diferenciales.
 5. Programar los métodos de diferencias finitas de Euler, Heun y Runge-Kutta de cuarto orden (RK4) para comparar su desempeño en la resolución del sistema dinámico.
-6. Simular y caracterizar el atractor caótico del sistema utilizando un paso de integración $dt = 1 \times 10^{-5}$ y condiciones iniciales específicas para observar la sensibilidad a los parámetros.
-7. Evaluar la convergencia del sistema hacia diferentes conjuntos compactos invariantes, incluyendo: Órbita periódica; Ciclo límite interno y externo; Convergencia a punto de equilibrio.
-8. Realizar un análisis comparativo de error y divergencia entre los resultados obtenidos por los métodos de Euler, Heun y RK4, ilustrando las soluciones en el tiempo y las trayectorias en el espacio de fase.
+6. Evaluar la convergencia del sistema hacia diferentes conjuntos compactos invariantes, incluyendo: Órbita periódica; Ciclo límite interno y externo; Convergencia a punto de equilibrio.
+7. Realizar un análisis comparativo de error y divergencia entre los resultados obtenidos por los métodos de Euler, Heun y RK4, ilustrando las soluciones en el tiempo y las trayectorias en el espacio de fase.
 
 ## Lista de archivos incluidos en el repositorio
 1. Cuaderno computacional de MATLAB [.mlx].
